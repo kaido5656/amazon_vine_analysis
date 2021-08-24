@@ -1,7 +1,7 @@
 # amazon_vine_analysis
 
 ### Purpose
-  The purpose of this analysis was to utilize hadoop, spark and AWS to practice building a cloud database. The data was hosted from AWS from an S3 bucket that would be comprised of amazon user reviews upon the subject of my choosing, videogames. Using AWS RDS, I created a PostgreSQL database and linked the cloud database into my local PGadmin as server. WIth the help of Google collab notebooks, I was able to extract, transform, and load the cleaned and parsed dataframes into PGadmin under the AWS server. The analysis largely delt with Vine user program that Amazon provied and determining if there were any relationship between paid 5-star reviews, and nonpaid 5-star reviews.
+  The purpose of this analysis was to utilize hadoop, spark and AWS to practice building a cloud database. The data was hosted from AWS from an S3 bucket that would be comprised of amazon user reviews upon the subject of my choosing, videogames. Using AWS RDS, I created a PostgreSQL database and linked the cloud database into my local PGadmin as server. With the help of Google collab notebooks, I was able to extract, transform, and load the cleaned and parsed dataframes into PGadmin under the AWS server. The analysis largely delt with Vine user program that Amazon provied and determining if there were any relationship between paid 5-star reviews, and nonpaid 5-star reviews.
   
   
 ### Results
